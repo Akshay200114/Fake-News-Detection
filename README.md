@@ -1,5 +1,5 @@
 # Fake-News-Detection
-ML Project
+## ML Project
 
 
-The project will be an end to end Machine Learning Project.
+### The project will be an end to end Machine Learning Project.
